@@ -20,7 +20,7 @@ Publicly available data from Roboflow has been used for model training and refin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Freshness_Detection.git
+   git clone https://github.com/Utkarsh-Shivhare/Freshness_detection.git
    cd Freshness_Detection
    ```
 
