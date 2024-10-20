@@ -40,6 +40,11 @@ Publicly available data from Roboflow has been used for model training and refin
    ```bash
    pip install -r requirements.txt
    ```
+4. **Run the Application**: Start the Flask server by running:
+   ```bash
+   python app.py
+   ```
+   The server will start at [http://localhost:5000/](http://localhost:5000/). Open this link in your browser.
 
 ## Usage
 
